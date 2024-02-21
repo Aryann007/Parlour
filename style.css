@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    font-family: Arial;
+    border: border-box;
+}
+
+.nav-bar{
+    height: 100px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+}
+
+.name{
+    color: white;
+    height: 100px;
+    width: 15%;
+}
+
+p{
+    font-size: 1rem;
+}
+
+.search-bar{
+    display: flex;
+
+}
+
+.search-box{
+
+}
+
+.search-icon{
+
+}
+
+a{
+    text-decoration: none;
+    color: aliceblue;
+
+}
